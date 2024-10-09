@@ -1,6 +1,4 @@
-# Language-Translation-Encoder--Decoder-using-LSTM
-
-# Seq2Seq Model with LSTM for French-to-English Translation
+# Seq2Seq Model with LSTM for English-to-French Translation
 
 This repository implements a sequence-to-sequence (Seq2Seq) model using LSTM layers for translating English sentences into French. The model uses an encoder to process the English input sequence and a decoder to generate the French translation. It is designed for tasks like language translation, where sequences of variable lengths need to be handled.
 
